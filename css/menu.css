@@ -1,0 +1,42 @@
+.main-wrapper {
+    height: 100vh;  
+}
+
+.section{ 
+    margin: 0;
+    height: 100%;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 7em;
+}
+
+
+.menu a {
+    font-weight: 100;
+}
+
+
+.social-links a{
+	display: inline-block;
+	height: 75px;
+	width: 75px;
+	background-color: rgba(18, 216, 51, 0.2);
+	margin:0 40px 40px 0;
+	text-align: center;
+	line-height: 75px;
+	border-radius: 75%;
+	color: #000000;
+	transition: all 0.5s ease;
+}
+.social-links a:hover{
+	color: #0c4cee;
+	background-color: #000000;
+}
+
+
+
+
+
+ 
